@@ -40,4 +40,4 @@ cargo build --release
 
 ## Лицензия
 
-Проект распространяется под лицензией [MIT](LICENSE).
+Проект распространяется под лицензией [GNU General Public License v3.0](LICENSE).
